@@ -1,2 +1,2 @@
-# genesis-smart-contract
-genesis contracts
+# contract-orggenesis
+svn 2 github test for contract-orggenesis
